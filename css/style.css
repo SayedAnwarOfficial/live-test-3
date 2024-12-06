@@ -1,0 +1,27 @@
+.bg{
+    background-color: #fafaf5;
+}
+.custom-padding {
+    padding: 10px;
+}
+.font-bold{
+    font-weight: 700;
+    font-size: 1rem;
+}
+.fixed-width {
+    width: 150px;
+    height: 120px;   
+}
+.h-full{
+    height: 100%;
+}
+.bg-green{
+    background-color: #426b1f;
+}
+.btn-hover:hover{
+    background-color: #578132;
+}
+.p-20{
+    margin: 10px;
+    display: inline-block;
+}
